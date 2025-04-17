@@ -7,8 +7,11 @@ This repository is created to earn the Public Sponsor badge, Pair Extraordinaire
 - **Pair Extraordinaire Badge**: Earned by collaborating with others on this repository.
 - **Starstruck Badge**: Obtained by receiving stars on this repository from the community.
 
+## Sponsorship
+This repository is open for sponsorship. If you find this project useful, consider becoming a sponsor to support its development.
+
 ## Contribution
-Feel free to contribute to this repository by adding features, fixing bugs, or improving documentation.
+Feel free to contribute to this repository by adding features, fixing bugs, or improving documentation. Collaboration is encouraged, and all contributions are welcome!
 
 ## License
 This project is licensed under the MIT License.
